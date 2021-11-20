@@ -1,4 +1,4 @@
 # IMLP
 
 ##HW unit01 完成</br>
-##HW unit02 2.1 & 2.2.2 完成
+##HW unit02 numpy & pandas & matplotlib完成
