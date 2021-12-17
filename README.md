@@ -7,3 +7,5 @@
 ## HW unit04 Linear Regression_HW完成 </br><https://github.com/Hsieh-chen-xin/IMLP-350/blob/main/Unit04/Linear%20Regression_HW.ipynb>
 ## Unit05 完成
 ## Unit06 完成
+## Unit07 完成
+## Unit08 完成
